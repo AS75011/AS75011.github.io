@@ -1,1 +1,1 @@
-A personal attempt to code
+A personal playground to learn how to code
